@@ -1,2 +1,6 @@
-# tafang
-A tower defense game developed by easyX graphics library
+# 一个简陋的塔防游戏
+本游戏没有确定的名称（生成的`exe`名为`TowerDefence`），是2018年暑假小学期与同学一同合作的作品，使用`C++`下加载的`easyX`入门级图形库开发。
+
+目前堆放的是一个化简稳定版。工程环境为`Visual Studio 2008`，比较老了。
+
+暂无进一步开发、改进的打算，因时间不足。
